@@ -22,7 +22,7 @@ metadata:
     version: "2.0"
     visualize: "true"
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       name: helloworldservice
